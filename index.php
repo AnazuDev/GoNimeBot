@@ -16,3 +16,5 @@ if ($text == "/start") {
         'text' => 'Hello, world!'
     ]);
 }
+
+?>
